@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">QUAY</string>
+<string name="content_url">udp://@20</string>
+</resources>

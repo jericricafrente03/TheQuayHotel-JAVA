@@ -1,0 +1,26 @@
+{
+	"action": "UPDATE",
+	"class": "get_config",
+	"data":
+	{
+		"id": "1",
+		"name": "The Quay Hotel",
+		"description": "The centrally located hotel offers our guests with easy access to any part of of the city conveniently from Raffles Place, Singapore\u2019s busiest business hub.\n\nNearby within walking distance, is the historic heart of the city \u2013 Singapore River precinct which is connected by three characteristic quays \u2013 Boat Quay, Clarke Quay and Robertson Quay that is bound to treat guests with the picturesque view of Singapore\u2019s colonial past.\n\nAt night, party lovers will be thrilled by the line-ups of pubs and restaurants that lights up the river banks at night with their vivid colours.\n\nFor those who prefer quieter atmosphere, take a short stroll further up to One Fullerton where you can enjoy the breath-taking night view of Singapore\u2019s night sky while being accompanied by the iconic Esplanade, Marina Bay Sands and Merlion.",
+		"street": "57 South Bridge Rd",
+		"city": "Singapore",
+		"country_code": "SG",
+		"timezone": "Asia\/Singapore",
+		"email": " info@thequayhotel.sg",
+		"currency": "SGD",
+		"website": "http:\/\/thequayhotel.sg",
+		"logo": "media\/config\/logo.png",
+		"lat": "1.287074",
+		"lon": "103.848217",
+		"weather_id": "0",
+		"welcome_message": "<center>We are delighted that you have selected our hotel.  On behalf of the entire team at the Quay Hotel, We extend you a very warm welcome and trust your stay with us will be both enjoyable and comfortable.  The hotel offers a selection of business services and facilities which are detailed in the booklet, placed on the writing table in your room.<\/center>",
+		"reservation_message": "Hi [customer name],  You make a reservation on [facility name] with reference no. [reference number].  Our service personnel will contact you to confirm and ask for some details.  Thank you.",
+		"service_request_message": "Hi [customer name],  You make a request for [service name] with reference no. [reference number].  Our service personnel will contact you to confirm and ask for some details.  Thank you.",
+		"checkout_message": "<p><em>Your checkout request on [checkout_date] will be forwarded to our Front Desk. Thank you for giving us the opportunity to serve you.<\/em><\/p>"
+	},
+	"room": 0
+}

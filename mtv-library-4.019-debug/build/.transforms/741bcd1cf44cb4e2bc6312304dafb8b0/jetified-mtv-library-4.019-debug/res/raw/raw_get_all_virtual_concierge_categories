@@ -1,0 +1,14 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_virtual_concierge_categories",
+	"data":
+	[
+	    {
+		    "id": "1",
+		    "category_name": "The Quay Hotel",
+		    "category_description": "The Quay Hotel",
+		    "order_no": "1"
+	    }
+	],
+	"room": 0
+}

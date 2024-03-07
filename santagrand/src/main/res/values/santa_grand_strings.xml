@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="room_number_label">Room No: </string>
+    <string name="date_format">dd MMMM yyyy</string>
+    <string name="time_format">hh:mm aa</string>
+    <!--App Name-->
+    <string name="watch_tv">WATCH TV</string>
+    <string name="message">MESSAGE</string>
+    <string name="explore">EXPLORE</string>
+    <string name="info">INFO</string>
+    <string name="airmedia">ENTERTAIN</string>
+    <string name="weather">WEATHER</string>
+    <!--App Status-->
+    <string name="room_label">Room No: </string>
+    <string name="guest_label">Name: </string>
+    <string name="default_country">Singapore</string>
+    <string name="temp_unit"> °C</string>
+    <string name="temp_unit_c"> °C</string>
+    <string name="temp_unit_f"> °F</string>
+    <string name="temp_unit_choice">°C/°F</string>
+    <string name="country">COUNTRY</string>
+    <!--Buttons-->
+    <string name="menu">Menu</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="voucher">Get Voucher</string>
+    <string name="connect">Connect</string>
+    <string name="qr">Please use a QR Scanner App to read the code</string>
+    <string name="ok_to_proceed">Press \'OK\' to proceed</string>
+    <string name="ok_to_select">Press \'OK\' to select</string>
+    <string name="room_types">ROOM TYPES</string>
+    <string name="hotel_prefix">Santa Grand Hotel - </string>
+    <string name="hotel_short_prefix">SGH </string>
+    <string name="app_tv">TV</string>
+    <string name="app_explore">Explore</string>
+    <string name="app_airmedia">Airmedia</string>
+    <string name="app_info">Info</string>
+    <string name="app_weather">Weather</string>
+    <string name="app_message">Messages</string>
+    <string name="airmedia_intro">
+        Stream music, videos and pictures from your own mobile or tablet wirelessly to the TV from any iOS or Android devices. Kindly follow steps below to get started.
+    </string>
+
+</resources>

@@ -1,0 +1,73 @@
+{
+	"app_list_type":"2",
+    "default_selected":"0",
+	"apps":
+		[
+				{
+				"id":"1",
+				"display_name":"TV",
+				"icon":"app_watch_tv",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.TV.View.Activity.TheQuayTV",
+				"icon_selected":"app_watch_tv_hl",
+				"app_type":"1",
+				"enabled":"1"
+			},
+			{
+				"id":"2",
+				"display_name":"Explore",
+				"icon":"app_explore",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Explore.View.Activity.TheQuayExplore",
+				"icon_selected":"app_explore_hl",
+				"app_type":"1",
+				"enabled":"1"
+			},
+            {
+				"id":"3",
+				"display_name":"Air Media",
+				"icon":"app_entertain",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Airmedia.View.Activity.TheQuayAirMedia",
+				"icon_selected":"app_entertain_hl",
+				"app_type":"1",
+				"enabled":"1"
+			},
+            {
+				"id":"4",
+				"display_name":"Netflix",
+				"icon":"app_netflix",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Netflix.Activity.TheQuayNetflix",
+				"icon_selected":"app_netflix_hl2",
+				"app_type":"1",
+				"enabled":"1"
+			},
+            {
+                "id":"5",
+			    "display_name":"Hotel Info",
+				"icon":"app_info",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Info.View.Activity.TheQuayInfo",
+				"icon_selected":"app_info_hl",
+				"app_type":"1",
+				"enabled":"1"
+            },
+			{
+				"id":"6",
+				"display_name":"Weather",
+				"icon":"app_weather",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Weather.View.Activity.TheQuayWeather",
+				"icon_selected":"app_weather_hl",
+				"app_type":"1",
+				"enabled":"1"
+			},
+			{
+				"id":"7",
+				"display_name":"Message",
+				"icon":"app_message",
+				"app":"com.ph.bittelasia.meshtv.tv.santagrand.Message.View.Activity.TheQuayMessage",
+				"icon_selected":"app_message_hl",
+				"app_type":"1",
+				"enabled":"1"
+			}
+		]
+}
+
+
+

@@ -1,0 +1,98 @@
+{
+	"action":"UPDATE",
+	"class":"tv",
+	"date":"10 06 2016 12:12:12",
+	"room":0,
+	"data":
+	[ { "channel_category_id" : "1",
+        "channel_description" : "E!",
+        "channel_image" : "e.jpg",
+        "channel_programs" : [  ],
+        "channel_title" : "E!",
+        "channel_uri" : "channel_e.mp4",
+        "enabled" : "1",
+        "id" : "1"
+      },
+      { "channel_category_id" : "1",
+        "channel_description" : "HBO",
+        "channel_image" : "hbo.jpg",
+        "channel_programs" : [ ],
+        "channel_title" : "HBO",
+        "channel_uri" : "channel_hbo.mp4",
+        "enabled" : "1",
+        "id" : "2"
+      },
+
+      { "channel_category_id" : "2",
+        "channel_description" : "CBS",
+        "channel_image" : "cbs.jpg",
+        "channel_programs" : [  ],
+        "channel_title" : "CBS",
+        "channel_uri" : "channel_cbs.mp4",
+        "enabled" : "1",
+        "id" : "3"
+      },
+      { "channel_category_id" : "1",
+        "channel_description" : "Fox",
+        "channel_image" : "fox.png",
+        "channel_programs" : [  ],
+        "channel_title" : "Fox",
+        "channel_uri" : "channel_fox.mp4",
+        "enabled" : "1",
+        "id" : "4"
+      },
+
+
+      { "channel_category_id" : "2",
+        "channel_description" : "National Geographic",
+        "channel_image" : "nat_geo.jpg",
+        "channel_programs" : [ ],
+        "channel_title" : "National Geographic",
+        "channel_uri" : "channel_natgeo.mp4",
+        "enabled" : "1",
+        "id" : "5"
+      },
+
+    { "channel_category_id" : "3",
+        "channel_description" : "CNN",
+        "channel_image" : "cnn.png",
+        "channel_programs" : [ ],
+        "channel_title" : "CNN",
+        "channel_uri" : "channel_cnn.mp4",
+        "enabled" : "1",
+        "id" : "6"
+      },
+
+      { "channel_category_id" : "1",
+        "channel_description" : "ABC",
+        "channel_image" : "abc.jpg",
+        "channel_programs" : [ ],
+        "channel_title" : "ABC",
+        "channel_uri" : "channel_abc.mp4",
+        "enabled" : "1",
+        "id" : "7"
+      },
+
+      { "channel_category_id" : "5",
+        "channel_description" : "ESPN",
+        "channel_image" : "espn.jpg",
+        "channel_programs" : [ ],
+        "channel_title" : "ESPN",
+        "channel_uri" : "channel_espn.mp4",
+        "enabled" : "1",
+        "id" : "8"
+      },
+
+    { "channel_category_id" : "4",
+        "channel_description" : "Disney Channel",
+        "channel_image" : "disney.jpg",
+        "channel_programs" : [ ],
+        "channel_title" : "Disney Channel",
+        "channel_uri" : "channel_disney.mp4",
+        "enabled" : "1",
+        "id" : "9"
+      }
+    ]
+}
+
+

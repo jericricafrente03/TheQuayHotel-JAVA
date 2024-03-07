@@ -1,0 +1,30 @@
+{
+	"notes": [],
+	"instructions": [{
+		"text": "Connect your mobile to the Wireless access point designated for your room (i.e Room No:101)",
+		"no": "1"
+	}, {
+		"text": "Download this application in your mobile or tablet:",
+		"no": "2"
+	}, {
+		"text": "Go to Play Store and search for iMediaShare app or press Green Button to display QR code to download the app",
+		"no": ""
+	}, {
+		"text": "After installation, click on the iMediaShare app icon to access the application.",
+		"no": "3"
+	}, {
+		"text": "Select the Video, Photo and Music you want to stream.",
+		"no": "4"
+	}, {
+		"text": "Once the media is selected, select the screen and find the streaming device ID that is designated for your room(i.e Room No:101).",
+		"no": "5"
+	}, {
+		"text": "And then press the ID and start streaming.",
+		"no": "6"
+	}],
+	"type": "android",
+	"requirements": [{
+		"text": "Android 5.0 and above",
+		"no": "1"
+	}]
+}

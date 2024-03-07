@@ -1,0 +1,18 @@
+{
+	"notes": [],
+	"instructions": [{
+		"text": "Download the application via the link http:\/\/www.bittelasia.com\/software\/airmedia\/AirPinPCSetup.exe.",
+		"no": "1"
+	}, {
+		"text": "Windows Media Streaming: Right click on any media file (a movie, a song, a picture, etc.) you want to stream from your PC, click DLNA Play, and then select the streaming device (e.g., AMRmxxx) which is designated to your room.",
+		"no": "2"
+	}, {
+		"text": "Windows Screen MirrorL Click the icon of AirPinSender at Windows status bar, click DLNA Mirror to and select AMRmxxx which is designated to your room and then it will mirror your PC automatically.",
+		"no": "3"
+	}],
+	"type": "windows",
+	"requirements": [{
+		"text": "8.1 and above",
+		"no": "1"
+	}]
+}

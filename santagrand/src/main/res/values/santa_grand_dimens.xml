@@ -1,0 +1,127 @@
+<resources>
+
+    <!--GENERAL-->
+    <dimen name="title_margin">20dp</dimen>
+    <dimen name="title_top_margin">3dp</dimen>
+    <dimen name="main_margin">28dp</dimen>
+    <dimen name="main_top_margin">12dp</dimen>
+
+    <!--TV-->
+    <dimen name="tv_grid_margin_top">28dp</dimen>
+    <dimen name="tv_grid_margin_bottom">0dp</dimen>
+    <dimen name="tv_grid_item_margin">4dp</dimen>
+    <dimen name="tv_grid_item_margin_bottom">24dp</dimen>
+    <dimen name="tv_grid_item_w">140dp</dimen>
+    <dimen name="tv_grid_item_h">200dp</dimen>
+    <dimen name="tv_grid_item_padding">8dp</dimen>
+    <dimen name="tv_grid_item_image_margin_top">16dp</dimen>
+    <dimen name="tv_grid_item_label_margin_top">24dp</dimen>
+    <dimen name="tv_grid_item_text">13sp</dimen>
+
+
+
+    <!--BEFORE 2017-->
+    <dimen name="filter_spinner_margin">8dp</dimen>
+    <dimen name="filter_spinner_stroke">2dp</dimen>
+    <dimen name="filter_icon_size_x">42dp</dimen>
+    <dimen name="filter_icon_size_y">27dp</dimen>
+    <dimen name="filter_divider">4dp</dimen>
+    <dimen name="filter_padding">4dp</dimen>
+
+    <dimen name="font_tiny">4sp</dimen>
+    <dimen name="font_small">8sp</dimen>
+    <dimen name="font_regular">12sp</dimen>
+    <dimen name="font_big">16sp</dimen>
+    <dimen name="font_xbig">20sp</dimen>
+    <dimen name="font_xxbig">24sp</dimen>
+    <dimen name="font_xxxbig">28sp</dimen>
+    <dimen name="qr_padding">4dp</dimen>
+
+
+    <dimen name="wifi_cb_height">40dp</dimen>
+    <dimen name="wifi_cb_width">200dp</dimen>
+    <dimen name="wifi_cb_margin_left">32dp</dimen>
+    <dimen name="wifi_cb_margin_bottom">16dp</dimen>
+
+
+
+    <dimen name="airmedia_dimen">20dp</dimen>
+    <dimen name="airmedia_margin_left">8dp</dimen>
+    <dimen name="airmedia_height">40dp</dimen>
+    <dimen name="airmedia_margin_bottom">16dp</dimen>
+    <dimen name="airmedia_margin_right">16dp</dimen>
+    <dimen name="airmedia_width">200dp</dimen>
+
+    <dimen name="room_label_font">24sp</dimen>
+    <dimen name="weather_font">16sp</dimen>
+
+    <dimen name="weather_width">40dp</dimen>
+    <dimen name="weather_height">40dp</dimen>
+    <dimen name="message_icon">52dp</dimen>
+    <dimen name="divider_margin_x">8dp</dimen>
+    <dimen name="divider_margin_y">4dp</dimen>
+    <dimen name="divider_height">14dp</dimen>
+    <dimen name="divider_width">2dp</dimen>
+    <dimen name="app_image_size">100dp</dimen>
+    <dimen name="app_space">72dp</dimen>
+    <dimen name="grid_margin">40dp</dimen>
+    <dimen name="channel_image">120dp</dimen>
+
+    <dimen name="grid_item_width">160dp</dimen>
+    <dimen name="grid_item_height">210dp</dimen>
+    <dimen name="grid_paddingx">12dp</dimen>
+    <dimen name="grid_paddingy">16dp</dimen>
+    <dimen name="grid_vertical_spacing">16dp</dimen>
+
+    <dimen name="inbox_x_margin">20dp</dimen>
+    <dimen name="message_item_margin_top">4dp</dimen>
+    <dimen name="message_item_size">70dp</dimen>
+
+
+    <dimen name="btn_width">160dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    <dimen name="btn_margin">8dp</dimen>
+
+    <dimen name="filter_width">300dp</dimen>
+    <dimen name="filter_height">60dp</dimen>
+    <dimen name="filter_margin">20dp</dimen>
+
+    <dimen name="counter">12dp</dimen>
+    <dimen name="explore_margin">32dp</dimen>
+    <dimen name="explore_margin_bottom">16dp</dimen>
+    <dimen name="explore_title_margin_bottom">8dp</dimen>
+    <dimen name="explore_counter_margin">4dp</dimen>
+    <dimen name="explore_margin_top">8dp</dimen>
+    <dimen name="explore_margin_x">28dp</dimen>
+    <dimen name="explore_scroll_margin_bottom">8dp</dimen>
+
+    <dimen name="instruction_margin">8dp</dimen>
+    <dimen name="instruction_padding">4dp</dimen>
+    <dimen name="instruction_top_margin">4dp</dimen>
+    <dimen name="instruction_left_margin">4dp</dimen>
+
+    <dimen name="whitespace">8dp</dimen>
+
+    <dimen name="info_menu_margin_top">4dp</dimen>
+    <dimen name="info_menu_margin_bottom">4dp</dimen>
+
+    <dimen name="voucher_height">200dp</dimen>
+    <dimen name="voucher_width">500dp</dimen>
+    <dimen name="voucher_image_height">200dp</dimen>
+    <dimen name="voucher_image_width">300dp</dimen>
+
+    <dimen name="voucher_qr_margin">20dp</dimen>
+
+    <dimen name="new_message_margin_left">4dp</dimen>
+    <dimen name="new_message_icon_margin_right">24dp</dimen>
+    <dimen name="new_message_icon_margin_top">100dp</dimen>
+    <dimen name="new_message_icon_width">200dp</dimen>
+    <dimen name="new_message_icon_height">40dp</dimen>
+
+
+
+
+    <!--Dialogs -->
+    <dimen name="room_type_x">700dp</dimen>
+    <dimen name="room_type_y">800dp</dimen>
+</resources>

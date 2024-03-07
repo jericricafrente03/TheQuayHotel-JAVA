@@ -1,0 +1,16 @@
+{
+	"class": "get_message",
+	"action": "UPDATE",
+	"room": "123",
+	"data":
+	[
+	    {
+		    "id": "10",
+		    "messg_datetime": "2019-02-08 15:33:03",
+		    "messg_from": "s",
+		    "messg_subject": "Toledo",
+		    "messg_text": "saaaaa",
+		    "room_id": "43"
+	    }
+	]
+}

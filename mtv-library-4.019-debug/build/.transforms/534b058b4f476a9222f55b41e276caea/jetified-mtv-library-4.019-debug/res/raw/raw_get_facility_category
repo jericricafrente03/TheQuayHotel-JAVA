@@ -1,0 +1,72 @@
+{
+	"action": "UPDATE",
+	"class": "get_facility_category",
+	"data":
+	[
+	    {
+		    "id": "1",
+		    "category_name": "Hotel Overview",
+		    "category_description": "Hotel Overview",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "1"
+	    },
+	    {
+		    "id": "2",
+		    "category_name": "One Bedroom",
+		    "category_description": "One Bedroom",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "2"
+	    },
+	    {
+		    "id": "3",
+		    "category_name": "Two Bedroom",
+		    "category_description": "Two Bedroom",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "3"
+	    },
+	    {
+		    "id": "4",
+		    "category_name": "Gym",
+		    "category_description": "Gym",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "4"
+	    },
+	     {
+		    "id": "5",
+		    "category_name": "Pool",
+		    "category_description": "Pool",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "5"
+	    },
+	    {
+		    "id": "6",
+		    "category_name": "Function Room",
+		    "category_description": "Function Room",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "6"
+	    },
+	    {
+		    "id": "7",
+		    "category_name": "Health & Wellness",
+		    "category_description": "Health & Wellness",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "7"
+	    },
+	    {
+		    "id": "8",
+		    "category_name": "Sample Category",
+		    "category_description": "Sample Category description",
+		    "img_preview": "",
+		    "img_uri": "",
+		    "order_no": "8"
+	    }
+	],
+	"room": 0
+}

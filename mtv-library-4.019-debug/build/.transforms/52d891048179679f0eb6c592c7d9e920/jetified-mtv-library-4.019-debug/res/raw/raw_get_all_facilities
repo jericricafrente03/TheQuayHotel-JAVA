@@ -1,0 +1,57 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_facilities",
+	"data":
+	[
+	    {
+		    "id": "1",
+		    "item_name": "Welcome!",
+		    "item_description": "After 20 years of creating quality living and redefining the Makati skyline, Rockwell makes its foray into Makati accommodations and leisure options, all while keeping its signature brand of exclusivity and luxury for its patrons. Renowned for its attention to detail, Rockwell takes pride in providing foresight for the little things against the backdrop of outstanding, yet sincere hotel service.<br>Aruga by Rockwell has 114 remarkable apartments fully furnished in the Asian Contemporary style, infused with the Rockwell signature of sophisticated interior design and quality finishes.<br>These apartments are crafted to suit the needs of every kind of traveler, with units ranging from studios to one- and two bedroom Makati accommodations that can fit the lifestyle of the jet-setting individual or the touring family.",
+		    "unit_price": "0",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_introduction.jpg"
+	    },
+	    {
+		    "id": "2",
+		    "item_name": "Junior Suite",
+		    "item_description": "Our one bedroom suite is ideal for travelling individuals, companions, or couples. Guests may enjoy the apartment's separate spaces for its dining, living area, and kitchen while also having the comfort and privacy of their bedrooms.<br>Size:65 - 66 sq. m. or 695 - 710 sq. ft.<br>Room Features and Services:<br>Dining area<br>Living room<br>Fully equipped kitchen<br>Private bathroom<br>Balcony (on some rooms)<br>High definition TV<br>Washer and dryer<br>Iron and ironing board<br>Safety deposit box<br>Electronic key card access<br>220 volts electricity output<br>Daily housekeeping services<br>24-hour front desk services",
+		    "unit_price": "5000",
+	    	"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_junior_suite.jpg"
+	    },
+	    {
+		    "id": "3",
+		    "item_name": "Two Bedroom Suite",
+		    "item_description": "Our spacious two bedroom suite is designed for individuals or travelling families, whether for business or leisure. Guests may enjoy the apartment's bigger kitchen space together with its own maid's or utility room.<br>Size:106 - 107 sq. m. or 1141 - 1152 sq. ft.<br>Room Features and Services:<br>Dining area<br>Living room<br>Fully equipped kitchen<br>(3) Private bathroom<br>Utility room<br>Balcony<br>High definition TV<br>Washer and dryer<br>Iron and ironing board<br>Safety deposit box<br>Electronic key card access<br>220 volts electricity output<br>Daily housekeeping services<br>24-hour front desk services",
+		    "unit_price": "1000",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_double_kinginamo.jpg"
+	    },
+	    {
+		    "id": "4",
+		    "item_name": " Fitness Center",
+		    "item_description": "Our serviced apartments in Makati, Aruga by Rockwell, has a gym with the latest exercise equipment. Guests who use this facility may opt to have a personal trainer or work out alone. At Aruga's serviced apartment in Makati, travelers can continue their exercise routine even while they are away from home.",
+		    "unit_price": "0",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_gym.jpg"
+	    },
+	    {
+		    "id": "5",
+		    "item_name": "Function and Meeting Room",
+		    "item_description": "Be it a large gathering at Aruga, a business conference, or an intimate lunch or dinner, we have a private function room that cater to every need.",
+		    "unit_price": "0",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_meetings.jpg"
+	    },
+	    {
+		    "id": "6",
+		    "item_name": "Outdoor Pool",
+		    "item_description": "There is an outdoor swimming pool as well as a kiddie pool for both you and your child to enjoy.",
+		    "unit_price": "5",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_outdoor_pool.jpg"
+	    },
+	    {
+		    "id": "34",
+		    "item_name": "Spa and Massage",
+		    "item_description": "<p>Treat yourself to a discreet sanctuary in the middle of bustling Makati.\r\n With our meticulously trained therapists, you are sure to leave feeling\r\n rejuvenated and satisfied.<br><\/p>",
+		    "unit_price": "0",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/facilities\/hi_spa.jpg"
+	    }
+	],
+	"room": 0
+}

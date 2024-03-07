@@ -1,0 +1,2043 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_virtual_concierge",
+	"data":
+	[
+	    {
+		    "id": "1",
+		    "name": "Boat Quay",
+		    "description": "A historical quay in Singapore which is situated upstream from the mouth of the Singapore River on its southern bank. It was the busiest part of the old Port of Singapore, handling three quarters of all shipping business during the 1860s. Though serving aquatic trade is no longer Boat Quay's primary role, the shophouses on it have been carefully conserved and now house various bars, pubs and restaurants.",
+		    "address": "",
+		    "contactNo": "",
+		    "rating": "",
+		    "lat": "1.28721",
+		    "lon": "103.84939",
+		    "img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/boatquay11.jpg",
+		    "category_id": "1",
+		    "qr_img": "",
+		    "map_img": "",
+		    "order_no": "1",
+		    "directions":
+		        [
+		            {
+			            "id": "199",
+			            "vc_id": "1",
+			            "order_no": "0",
+			            "lat": "1.287113",
+			            "lon": "103.848137",
+			            "distance": "0.047 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			            "narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		            },
+		            {
+			            "id": "200",
+			            "vc_id": "1",
+			            "order_no": "1",
+			            "lat": "1.286518",
+			            "lon": "103.847816",
+			            "distance": "0.044 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			            "narrative": "Turn left onto North Canal Road."
+		            },
+		            {
+			            "id": "201",
+			            "vc_id": "1",
+			            "order_no": "2",
+			            "lat": "1.286227",
+			            "lon": "103.848381",
+			            "distance": "0.07 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			            "narrative": "Turn left onto Lor Telok."
+		            },
+		            {
+			            "id": "202",
+			            "vc_id": "1",
+			            "order_no": "3",
+			            "lat": "1.287109",
+			            "lon": "103.848877",
+			            "distance": "0.07 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/rs_sharp_right_sm.gif",
+			            "narrative": "Turn sharp right onto Circular Road."
+		            },
+		            {
+			            "id": "203",
+			            "vc_id": "1",
+			            "order_no": "4",
+			            "lat": "1.286189",
+			            "lon": "103.849289",
+			            "distance": "0.016 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			            "narrative": "Turn left onto Canton Street."
+		            },
+		            {
+			            "id": "204",
+			            "vc_id": "1",
+			            "order_no": "5",
+			            "lat": "1.28633",
+			            "lon": "103.84948",
+			            "distance": "0.062 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			            "narrative": "Turn left."
+		            },
+		            {
+			            "id": "205",
+			            "vc_id": "1",
+			            "order_no": "6",
+			            "lat": "1.287146",
+			            "lon": "103.849144",
+			            "distance": "0 (mile)",
+			            "icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			            "narrative": "55 BOAT QUAY."
+		            }
+		        ]
+	        },
+	        {
+		"id": "2",
+		"name": "Clarke Quay",
+		"description": "Was named after Sir Andrew Clarke, Singapore's second Governor and Governor of the Straits Settlements from 1873 to 1875, who played a key role in positioning Singapore as the main port for the Malay states of Perak, Selangor and Sungei Ujong. At present, five blocks of restored warehouses house various restaurants and nightclubs. There are also moored Chinese junks (tongkangs) that have been refurbished into floating pubs and restaurants.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.290302",
+		"lon": "103.845434",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/boatquay2.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "2",
+		"directions": [{
+			"id": "191",
+			"vc_id": "2",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "192",
+			"vc_id": "2",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "193",
+			"vc_id": "2",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "194",
+			"vc_id": "2",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "195",
+			"vc_id": "2",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "196",
+			"vc_id": "2",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.149 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto River Valley Road."
+		}, {
+			"id": "197",
+			"vc_id": "2",
+			"order_no": "6",
+			"lat": "1.291099",
+			"lon": "103.846306",
+			"distance": "0.045 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left."
+		}, {
+			"id": "198",
+			"vc_id": "2",
+			"order_no": "7",
+			"lat": "1.2905",
+			"lon": "103.846092",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "CLARKE STREET."
+		}]
+	}, {
+		"id": "3",
+		"name": "Victoria Concert Hall",
+		"description": "The Victoria Theatre and Concert Hall is a performing arts center in the Central Area of Singapore. It is a complex of two buildings and a clock tower joined together by a common corridor; the oldest part of the building was first built in 1862, and the complex was completed in 1909. The complex has undergone a number of renovations and refurbishment, mostly recently in 2010 when the complex was closed for a four-year renovation project. It reopened on 15 July 2014.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.2882",
+		"lon": "103.8515",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/boatquay3.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "3",
+		"directions": [{
+			"id": "178",
+			"vc_id": "3",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "179",
+			"vc_id": "3",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "180",
+			"vc_id": "3",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "181",
+			"vc_id": "3",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "182",
+			"vc_id": "3",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "183",
+			"vc_id": "3",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.06 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "184",
+			"vc_id": "3",
+			"order_no": "6",
+			"lat": "1.290827",
+			"lon": "103.848679",
+			"distance": "0.024 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto High Street."
+		}, {
+			"id": "185",
+			"vc_id": "3",
+			"order_no": "7",
+			"lat": "1.291005",
+			"lon": "103.848969",
+			"distance": "0.091 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right to stay on High Street."
+		}, {
+			"id": "186",
+			"vc_id": "3",
+			"order_no": "8",
+			"lat": "1.290188",
+			"lon": "103.849998",
+			"distance": "0.143 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "High Street becomes Parliament Place."
+		}, {
+			"id": "187",
+			"vc_id": "3",
+			"order_no": "9",
+			"lat": "1.288866",
+			"lon": "103.851578",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "188",
+			"vc_id": "3",
+			"order_no": "10",
+			"lat": "1.28822",
+			"lon": "103.851143",
+			"distance": "0.008 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_left_sm.gif",
+			"narrative": "Turn slight left onto Empress Place."
+		}, {
+			"id": "189",
+			"vc_id": "3",
+			"order_no": "11",
+			"lat": "1.2881",
+			"lon": "103.85112",
+			"distance": "0.017 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left to stay on Empress Place."
+		}, {
+			"id": "190",
+			"vc_id": "3",
+			"order_no": "12",
+			"lat": "1.287954",
+			"lon": "103.851326",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "VICTORIA MEMORIAL HALL."
+		}]
+	}, {
+		"id": "4",
+		"name": "Merlion Park",
+		"description": "The Merlion (Malay: Singa-Laut) is a mythical creature with a lion's head and the body of a fish that is widely used as a mascot and national personification of Singapore. Two Merlion statues are located at the park. The original Merlion structure measures 8.6 meters tall and spouts water from its mouth. It has subsequently been joined by a Merlion cub, which is located near the original statue and measures just 2 metres tall.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.2868",
+		"lon": "103.8545",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/boatquay4.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "4",
+		"directions": [{
+			"id": "167",
+			"vc_id": "4",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.133 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "168",
+			"vc_id": "4",
+			"order_no": "1",
+			"lat": "1.28545",
+			"lon": "103.847168",
+			"distance": "0.094 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Pickering Street."
+		}, {
+			"id": "169",
+			"vc_id": "4",
+			"order_no": "2",
+			"lat": "1.28478",
+			"lon": "103.848358",
+			"distance": "0.209 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Pickering Street becomes Church Street."
+		}, {
+			"id": "170",
+			"vc_id": "4",
+			"order_no": "3",
+			"lat": "1.282648",
+			"lon": "103.85041",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Cecil Street."
+		}, {
+			"id": "171",
+			"vc_id": "4",
+			"order_no": "4",
+			"lat": "1.282615",
+			"lon": "103.851219",
+			"distance": "0.349 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Cecil Street becomes Collyer Quay."
+		}, {
+			"id": "172",
+			"vc_id": "4",
+			"order_no": "5",
+			"lat": "1.286512",
+			"lon": "103.853714",
+			"distance": "0.353 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Collyer Quay becomes Esplanade Drive."
+		}, {
+			"id": "173",
+			"vc_id": "4",
+			"order_no": "6",
+			"lat": "1.29145",
+			"lon": "103.854866",
+			"distance": "0.139 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Esplanade Drive becomes Nicoll Highway."
+		}, {
+			"id": "174",
+			"vc_id": "4",
+			"order_no": "7",
+			"lat": "1.29316",
+			"lon": "103.85582",
+			"distance": "0.005 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Bras Basah Road."
+		}, {
+			"id": "175",
+			"vc_id": "4",
+			"order_no": "8",
+			"lat": "1.293106",
+			"lon": "103.855873",
+			"distance": "0.137 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Nicoll Highway."
+		}, {
+			"id": "176",
+			"vc_id": "4",
+			"order_no": "9",
+			"lat": "1.29135",
+			"lon": "103.854973",
+			"distance": "0.316 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Nicoll Highway becomes Esplanade Drive."
+		}, {
+			"id": "177",
+			"vc_id": "4",
+			"order_no": "10",
+			"lat": "1.2869",
+			"lon": "103.853981",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "MERLION."
+		}]
+	}, {
+		"id": "5",
+		"name": "Haji Lane",
+		"description": "Haji Lane is in the Kampong Glam neighbourhood of Singapore. Young people frequent the shophouses along this lane for the independent fashion boutiques and Middle Eastern cafes. Haji Lane got its name because of the businesses here. There were many Arab pilgrim-brokers who would arrange the haj for Muslims in Singapore and from the nearby islands such as Java.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3008",
+		"lon": "103.8591",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/bugis1.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "5",
+		"directions": [{
+			"id": "156",
+			"vc_id": "5",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "157",
+			"vc_id": "5",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "158",
+			"vc_id": "5",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "159",
+			"vc_id": "5",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "160",
+			"vc_id": "5",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "161",
+			"vc_id": "5",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "162",
+			"vc_id": "5",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.757 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "163",
+			"vc_id": "5",
+			"order_no": "7",
+			"lat": "1.302828",
+			"lon": "103.857658",
+			"distance": "0.081 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Arab Street."
+		}, {
+			"id": "164",
+			"vc_id": "5",
+			"order_no": "8",
+			"lat": "1.301998",
+			"lon": "103.85849",
+			"distance": "0.02 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto North Bridge Road."
+		}, {
+			"id": "165",
+			"vc_id": "5",
+			"order_no": "9",
+			"lat": "1.301767",
+			"lon": "103.858307",
+			"distance": "0.086 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Haji Lane."
+		}, {
+			"id": "166",
+			"vc_id": "5",
+			"order_no": "10",
+			"lat": "1.300785",
+			"lon": "103.859077",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "28 HAJI LANE."
+		}]
+	}, {
+		"id": "6",
+		"name": "Sultan Mosque",
+		"description": "Masjid Sultan, or Sultan Mosque, is a mosque located at Muscat Street and North Bridge Road within the Kampong Glam precinct of the district of Rochor in Singapore. The mosque is considered one of the most important mosques in Singapore.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3023",
+		"lon": "103.8591",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/bugis2.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "6",
+		"directions": [{
+			"id": "144",
+			"vc_id": "6",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "145",
+			"vc_id": "6",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "146",
+			"vc_id": "6",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "147",
+			"vc_id": "6",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "148",
+			"vc_id": "6",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "149",
+			"vc_id": "6",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "150",
+			"vc_id": "6",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.987 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "151",
+			"vc_id": "6",
+			"order_no": "7",
+			"lat": "1.305071",
+			"lon": "103.860123",
+			"distance": "0.074 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Jalan Sultan."
+		}, {
+			"id": "152",
+			"vc_id": "6",
+			"order_no": "8",
+			"lat": "1.30416",
+			"lon": "103.86068",
+			"distance": "0.128 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto North Bridge Road."
+		}, {
+			"id": "153",
+			"vc_id": "6",
+			"order_no": "9",
+			"lat": "1.303118",
+			"lon": "103.859154",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Kandahar Street."
+		}, {
+			"id": "154",
+			"vc_id": "6",
+			"order_no": "10",
+			"lat": "1.302486",
+			"lon": "103.859604",
+			"distance": "0.017 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "155",
+			"vc_id": "6",
+			"order_no": "11",
+			"lat": "1.302313",
+			"lon": "103.859421",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "SULTAN MOSQUE."
+		}]
+	}, {
+		"id": "7",
+		"name": "Bugis Street",
+		"description": "Bugis Street is a shopping paradise for fashionistas. With more than 600 shops offering wallet friendly fashion clothing, shoes and accessories. Fashionistas will certainly be impressed by all the latest and trendiest things that are updated almost every day",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3006",
+		"lon": "103.8548",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/bugis3.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "7",
+		"directions": [{
+			"id": "134",
+			"vc_id": "7",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "135",
+			"vc_id": "7",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "136",
+			"vc_id": "7",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "137",
+			"vc_id": "7",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "138",
+			"vc_id": "7",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "139",
+			"vc_id": "7",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "140",
+			"vc_id": "7",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.536 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "141",
+			"vc_id": "7",
+			"order_no": "7",
+			"lat": "1.300423",
+			"lon": "103.85556",
+			"distance": "0.026 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left."
+		}, {
+			"id": "142",
+			"vc_id": "7",
+			"order_no": "8",
+			"lat": "1.300678",
+			"lon": "103.855278",
+			"distance": "0.024 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left."
+		}, {
+			"id": "143",
+			"vc_id": "7",
+			"order_no": "9",
+			"lat": "1.300416",
+			"lon": "103.855042",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "NEW BUGIS STREET."
+		}]
+	}, {
+		"id": "8",
+		"name": "Joo Chiat Colourful Shophouses",
+		"description": "The neighbouring Joo Chiat area is named after Chew Joo Chiat, a wealthy Chinese landowner in the early 20th-century. The area's identity is especially shaped by its unique pre-war architecture \u2013 colourful two-storey shophouses and terrace houses with ornate facades, intricate motifs and ceramic tiles",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.30990910",
+		"lon": "103.902026",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/east_coast1.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "8",
+		"directions": [{
+			"id": "121",
+			"vc_id": "8",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.133 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "122",
+			"vc_id": "8",
+			"order_no": "1",
+			"lat": "1.28545",
+			"lon": "103.847168",
+			"distance": "0.094 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Pickering Street."
+		}, {
+			"id": "123",
+			"vc_id": "8",
+			"order_no": "2",
+			"lat": "1.28478",
+			"lon": "103.848358",
+			"distance": "0.209 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Pickering Street becomes Church Street."
+		}, {
+			"id": "124",
+			"vc_id": "8",
+			"order_no": "3",
+			"lat": "1.282648",
+			"lon": "103.85041",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Cecil Street."
+		}, {
+			"id": "125",
+			"vc_id": "8",
+			"order_no": "4",
+			"lat": "1.282615",
+			"lon": "103.851219",
+			"distance": "0.349 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Cecil Street becomes Collyer Quay."
+		}, {
+			"id": "126",
+			"vc_id": "8",
+			"order_no": "5",
+			"lat": "1.286512",
+			"lon": "103.853714",
+			"distance": "0.353 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Collyer Quay becomes Esplanade Drive."
+		}, {
+			"id": "127",
+			"vc_id": "8",
+			"order_no": "6",
+			"lat": "1.29145",
+			"lon": "103.854866",
+			"distance": "2.021 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Esplanade Drive becomes Nicoll Highway."
+		}, {
+			"id": "128",
+			"vc_id": "8",
+			"order_no": "7",
+			"lat": "1.308191",
+			"lon": "103.87738",
+			"distance": "0.009 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Nicoll Highway becomes Guillemard Road."
+		}, {
+			"id": "129",
+			"vc_id": "8",
+			"order_no": "8",
+			"lat": "1.308311",
+			"lon": "103.877434",
+			"distance": "0.01 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Sims Way."
+		}, {
+			"id": "130",
+			"vc_id": "8",
+			"order_no": "9",
+			"lat": "1.308254",
+			"lon": "103.877571",
+			"distance": "0.357 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Sims Way becomes Mountbatten Road."
+		}, {
+			"id": "131",
+			"vc_id": "8",
+			"order_no": "10",
+			"lat": "1.306104",
+			"lon": "103.882248",
+			"distance": "0.501 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Old Airport Road."
+		}, {
+			"id": "132",
+			"vc_id": "8",
+			"order_no": "11",
+			"lat": "1.308484",
+			"lon": "103.88903",
+			"distance": "0.914 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Old Airport Road becomes Dunman Road."
+		}, {
+			"id": "133",
+			"vc_id": "8",
+			"order_no": "12",
+			"lat": "1.309904",
+			"lon": "103.902031",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "DUNMAN ROAD."
+		}]
+	}, {
+		"id": "9",
+		"name": "Katong Antique House",
+		"description": "Katong Antique House is a wonderfully-preserved two-storey shophouse filled with rich Peranakan antiques and heirlooms, carefully restored by curator and owner Peter Wee to take you back in time of his ancestors with his colourful stories of Nonya heritage and culture.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3073",
+		"lon": "103.907",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/east_coast2.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "9",
+		"directions": [{
+			"id": "109",
+			"vc_id": "9",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.133 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "110",
+			"vc_id": "9",
+			"order_no": "1",
+			"lat": "1.28545",
+			"lon": "103.847168",
+			"distance": "0.094 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Pickering Street."
+		}, {
+			"id": "111",
+			"vc_id": "9",
+			"order_no": "2",
+			"lat": "1.28478",
+			"lon": "103.848358",
+			"distance": "0.209 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Pickering Street becomes Church Street."
+		}, {
+			"id": "112",
+			"vc_id": "9",
+			"order_no": "3",
+			"lat": "1.282648",
+			"lon": "103.85041",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Cecil Street."
+		}, {
+			"id": "113",
+			"vc_id": "9",
+			"order_no": "4",
+			"lat": "1.282615",
+			"lon": "103.851219",
+			"distance": "0.06 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto Finlayson Green."
+		}, {
+			"id": "114",
+			"vc_id": "9",
+			"order_no": "5",
+			"lat": "1.282194",
+			"lon": "103.851974",
+			"distance": "0.489 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Finlayson Green becomes Marina Boulevard."
+		}, {
+			"id": "115",
+			"vc_id": "9",
+			"order_no": "6",
+			"lat": "1.278362",
+			"lon": "103.85791",
+			"distance": "0.55 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_left_sm.gif",
+			"narrative": "Turn slight left onto ramp."
+		}, {
+			"id": "116",
+			"vc_id": "9",
+			"order_no": "7",
+			"lat": "1.285072",
+			"lon": "103.861458",
+			"distance": "2.953 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_merge_right_sm.gif",
+			"narrative": "Merge onto ECP."
+		}, {
+			"id": "117",
+			"vc_id": "9",
+			"order_no": "8",
+			"lat": "1.296689",
+			"lon": "103.896271",
+			"distance": "0.227 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_gr_exitleft_sm.gif",
+			"narrative": "Take the 11 exit, EXIT 11."
+		}, {
+			"id": "118",
+			"vc_id": "9",
+			"order_no": "9",
+			"lat": "1.298909",
+			"lon": "103.897789",
+			"distance": "0.221 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Stay straight to go onto Tanjong Katong Road."
+		}, {
+			"id": "119",
+			"vc_id": "9",
+			"order_no": "10",
+			"lat": "1.302024",
+			"lon": "103.897087",
+			"distance": "0.78 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto East Coast Road."
+		}, {
+			"id": "120",
+			"vc_id": "9",
+			"order_no": "11",
+			"lat": "1.307328",
+			"lon": "103.906937",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "CHAPEL CLOSE."
+		}]
+	}, {
+		"id": "10",
+		"name": "East Coast Park",
+		"description": "East Coast Park is one of Singapore's most treasured urban getaways, offering an invigorating and exciting diversity of sporting, dining and recreational activities. With the theme \\\"RecreationforAll\\\", the park has an activity for everyone.<br><br>Families and friends can sit back, relax and enjoy picnics under the swaying coconut palms, Casuarinas and Ketapangs, or have a fun stay at the holiday chalet available in the park",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3008",
+		"lon": "103.9122",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/east_coast3.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "10",
+		"directions": [{
+			"id": "98",
+			"vc_id": "10",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.133 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "99",
+			"vc_id": "10",
+			"order_no": "1",
+			"lat": "1.28545",
+			"lon": "103.847168",
+			"distance": "0.094 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Pickering Street."
+		}, {
+			"id": "100",
+			"vc_id": "10",
+			"order_no": "2",
+			"lat": "1.28478",
+			"lon": "103.848358",
+			"distance": "0.209 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Pickering Street becomes Church Street."
+		}, {
+			"id": "101",
+			"vc_id": "10",
+			"order_no": "3",
+			"lat": "1.282648",
+			"lon": "103.85041",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Cecil Street."
+		}, {
+			"id": "102",
+			"vc_id": "10",
+			"order_no": "4",
+			"lat": "1.282615",
+			"lon": "103.851219",
+			"distance": "0.06 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto Finlayson Green."
+		}, {
+			"id": "103",
+			"vc_id": "10",
+			"order_no": "5",
+			"lat": "1.282194",
+			"lon": "103.851974",
+			"distance": "0.489 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Finlayson Green becomes Marina Boulevard."
+		}, {
+			"id": "104",
+			"vc_id": "10",
+			"order_no": "6",
+			"lat": "1.278362",
+			"lon": "103.85791",
+			"distance": "0.55 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_left_sm.gif",
+			"narrative": "Turn slight left onto ramp."
+		}, {
+			"id": "105",
+			"vc_id": "10",
+			"order_no": "7",
+			"lat": "1.285072",
+			"lon": "103.861458",
+			"distance": "3.96 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_merge_right_sm.gif",
+			"narrative": "Merge onto ECP."
+		}, {
+			"id": "106",
+			"vc_id": "10",
+			"order_no": "8",
+			"lat": "1.301451",
+			"lon": "103.910027",
+			"distance": "0.491 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_gr_exitleft_sm.gif",
+			"narrative": "Take the 10A exit, EXIT 10A."
+		}, {
+			"id": "107",
+			"vc_id": "10",
+			"order_no": "9",
+			"lat": "1.300441",
+			"lon": "103.908752",
+			"distance": "0.256 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_sharp_left_sm.gif",
+			"narrative": "Turn sharp left onto East Coast Park Service Road."
+		}, {
+			"id": "108",
+			"vc_id": "10",
+			"order_no": "10",
+			"lat": "1.301176",
+			"lon": "103.911659",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "EAST COAST PARK SERVICE ROAD."
+		}]
+	}, {
+		"id": "11",
+		"name": "Deepavali",
+		"description": "Officially an area of conservation since 1989, Little India is saturated in Indian culture and history. Visitors arriving at the right time can even see the lights and festivities of Hindu religious or Indian cultural celebrations like Pongal, Holi or Deepavali, sure to be the experience of a lifetime and the highlight of your trip!",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3066",
+		"lon": "103.8518",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/littleindia1.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "11",
+		"directions": [{
+			"id": "84",
+			"vc_id": "11",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "85",
+			"vc_id": "11",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "86",
+			"vc_id": "11",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "87",
+			"vc_id": "11",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "88",
+			"vc_id": "11",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "89",
+			"vc_id": "11",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "90",
+			"vc_id": "11",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.365 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "91",
+			"vc_id": "11",
+			"order_no": "7",
+			"lat": "1.298529",
+			"lon": "103.853981",
+			"distance": "0.348 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Middle Road."
+		}, {
+			"id": "92",
+			"vc_id": "11",
+			"order_no": "8",
+			"lat": "1.301502",
+			"lon": "103.849968",
+			"distance": "0.253 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Selegie Road."
+		}, {
+			"id": "93",
+			"vc_id": "11",
+			"order_no": "9",
+			"lat": "1.304945",
+			"lon": "103.850822",
+			"distance": "0.212 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Selegie Road becomes Serangoon Road."
+		}, {
+			"id": "94",
+			"vc_id": "11",
+			"order_no": "10",
+			"lat": "1.307494",
+			"lon": "103.852531",
+			"distance": "0.034 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Belilios Road."
+		}, {
+			"id": "95",
+			"vc_id": "11",
+			"order_no": "11",
+			"lat": "1.307754",
+			"lon": "103.852119",
+			"distance": "0.083 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Belilios Lane."
+		}, {
+			"id": "96",
+			"vc_id": "11",
+			"order_no": "12",
+			"lat": "1.306815",
+			"lon": "103.851387",
+			"distance": "0.032 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Kerbau Road."
+		}, {
+			"id": "97",
+			"vc_id": "11",
+			"order_no": "13",
+			"lat": "1.306528",
+			"lon": "103.851746",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "KERBAU ROAD."
+		}]
+	}, {
+		"id": "12",
+		"name": "Little India Arcade",
+		"description": "Little India Arcade's cluster of shop house buildings, which date back from the 1920's is home to a variety of neatly, renovated novelty shops and eateries. The building has been carefully preserved to capture the essence of the early Indian settlement which occupied the area during colonial times. The winding alleys in the arcade host Indian bric-a-brac stalls, curio and sweet shops, restaurants, and bookshops. A prominent landmark in the Little India district, it is a favourite haunt of tourists and locals looking for best Indian buys.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3066",
+		"lon": "103.8518",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/littleindia2.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "12",
+		"directions": [{
+			"id": "70",
+			"vc_id": "12",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "71",
+			"vc_id": "12",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "72",
+			"vc_id": "12",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "73",
+			"vc_id": "12",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "74",
+			"vc_id": "12",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "75",
+			"vc_id": "12",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "76",
+			"vc_id": "12",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.365 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "77",
+			"vc_id": "12",
+			"order_no": "7",
+			"lat": "1.298529",
+			"lon": "103.853981",
+			"distance": "0.348 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Middle Road."
+		}, {
+			"id": "78",
+			"vc_id": "12",
+			"order_no": "8",
+			"lat": "1.301502",
+			"lon": "103.849968",
+			"distance": "0.253 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Selegie Road."
+		}, {
+			"id": "79",
+			"vc_id": "12",
+			"order_no": "9",
+			"lat": "1.304945",
+			"lon": "103.850822",
+			"distance": "0.212 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Selegie Road becomes Serangoon Road."
+		}, {
+			"id": "80",
+			"vc_id": "12",
+			"order_no": "10",
+			"lat": "1.307494",
+			"lon": "103.852531",
+			"distance": "0.034 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Belilios Road."
+		}, {
+			"id": "81",
+			"vc_id": "12",
+			"order_no": "11",
+			"lat": "1.307754",
+			"lon": "103.852119",
+			"distance": "0.083 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Belilios Lane."
+		}, {
+			"id": "82",
+			"vc_id": "12",
+			"order_no": "12",
+			"lat": "1.306815",
+			"lon": "103.851387",
+			"distance": "0.032 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Kerbau Road."
+		}, {
+			"id": "83",
+			"vc_id": "12",
+			"order_no": "13",
+			"lat": "1.306528",
+			"lon": "103.851746",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "KERBAU ROAD."
+		}]
+	}, {
+		"id": "13",
+		"name": "Sri Veeramakaliamman Temple",
+		"description": "One of Singapore's oldest Hindu temples and distinctive landmark in the heart of Little India, the Sri Veeramakaliamman Temple, dedicated to the goddess and destroyer of evil, Sri Veeramakaliamman or Kali.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.308",
+		"lon": "103.8522",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/littleindia3.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "13",
+		"directions": [{
+			"id": "57",
+			"vc_id": "13",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "58",
+			"vc_id": "13",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.144 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right."
+		}, {
+			"id": "59",
+			"vc_id": "13",
+			"order_no": "2",
+			"lat": "1.287395",
+			"lon": "103.845924",
+			"distance": "0.199 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Eu Tong Sen Street."
+		}, {
+			"id": "60",
+			"vc_id": "13",
+			"order_no": "3",
+			"lat": "1.289611",
+			"lon": "103.847763",
+			"distance": "0.033 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Coleman Bridge."
+		}, {
+			"id": "61",
+			"vc_id": "13",
+			"order_no": "4",
+			"lat": "1.289976",
+			"lon": "103.848061",
+			"distance": "0.013 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Coleman Bridge becomes Eu Tong Sen Street."
+		}, {
+			"id": "62",
+			"vc_id": "13",
+			"order_no": "5",
+			"lat": "1.290123",
+			"lon": "103.848183",
+			"distance": "0.347 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Eu Tong Sen Street becomes Hill Street."
+		}, {
+			"id": "63",
+			"vc_id": "13",
+			"order_no": "6",
+			"lat": "1.294529",
+			"lon": "103.85054",
+			"distance": "0.365 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Hill Street becomes Victoria Street."
+		}, {
+			"id": "64",
+			"vc_id": "13",
+			"order_no": "7",
+			"lat": "1.298529",
+			"lon": "103.853981",
+			"distance": "0.348 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Middle Road."
+		}, {
+			"id": "65",
+			"vc_id": "13",
+			"order_no": "8",
+			"lat": "1.301502",
+			"lon": "103.849968",
+			"distance": "0.253 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Selegie Road."
+		}, {
+			"id": "66",
+			"vc_id": "13",
+			"order_no": "9",
+			"lat": "1.304945",
+			"lon": "103.850822",
+			"distance": "0.212 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Selegie Road becomes Serangoon Road."
+		}, {
+			"id": "67",
+			"vc_id": "13",
+			"order_no": "10",
+			"lat": "1.307494",
+			"lon": "103.852531",
+			"distance": "0.049 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Belilios Road."
+		}, {
+			"id": "68",
+			"vc_id": "13",
+			"order_no": "11",
+			"lat": "1.307884",
+			"lon": "103.851936",
+			"distance": "0.018 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Klang Lane."
+		}, {
+			"id": "69",
+			"vc_id": "13",
+			"order_no": "12",
+			"lat": "1.308088",
+			"lon": "103.852089",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "SRI VEERAMAKALIAMMAN."
+		}]
+	}, {
+		"id": "14",
+		"name": "The Green Corridor",
+		"description": "The 'Green Corridor' is an uninterrupted 24 kilometres stretch of greenery and woodlands that runs the entire length of Singapore, from the old Tanjong Pagar Rail Station in the south to the border of Malaysia in the north. Since ceasing operation in 2011, has provide an oasis and a place of relief against the increasing density and intensity of urban living to Singaporeans.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3521",
+		"lon": "103.8198",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/westcoast1.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "14",
+		"directions": [{
+			"id": "43",
+			"vc_id": "14",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.279 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "44",
+			"vc_id": "14",
+			"order_no": "1",
+			"lat": "1.283648",
+			"lon": "103.846069",
+			"distance": "0.381 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Upper Cross Street."
+		}, {
+			"id": "45",
+			"vc_id": "14",
+			"order_no": "2",
+			"lat": "1.287223",
+			"lon": "103.842491",
+			"distance": "0.012 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Go straight."
+		}, {
+			"id": "46",
+			"vc_id": "14",
+			"order_no": "3",
+			"lat": "1.287375",
+			"lon": "103.842583",
+			"distance": "0.206 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto ramp."
+		}, {
+			"id": "47",
+			"vc_id": "14",
+			"order_no": "4",
+			"lat": "1.289501",
+			"lon": "103.842133",
+			"distance": "2.316 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_merge_right_sm.gif",
+			"narrative": "Merge onto CTE."
+		}, {
+			"id": "48",
+			"vc_id": "14",
+			"order_no": "5",
+			"lat": "1.317458",
+			"lon": "103.8489",
+			"distance": "0.238 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_gr_exitleft_sm.gif",
+			"narrative": "Take EXIT 7A."
+		}, {
+			"id": "49",
+			"vc_id": "14",
+			"order_no": "6",
+			"lat": "1.319248",
+			"lon": "103.850403",
+			"distance": "0.477 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_left_sm.gif",
+			"narrative": "Turn slight left onto Moulmein Road."
+		}, {
+			"id": "50",
+			"vc_id": "14",
+			"order_no": "7",
+			"lat": "1.318883",
+			"lon": "103.843681",
+			"distance": "1.757 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto Thomson Road."
+		}, {
+			"id": "51",
+			"vc_id": "14",
+			"order_no": "8",
+			"lat": "1.341825",
+			"lon": "103.835739",
+			"distance": "0.431 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right to stay on Thomson Road."
+		}, {
+			"id": "52",
+			"vc_id": "14",
+			"order_no": "9",
+			"lat": "1.346692",
+			"lon": "103.838432",
+			"distance": "0.124 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_left_sm.gif",
+			"narrative": "Turn slight left onto Lornie Road."
+		}, {
+			"id": "53",
+			"vc_id": "14",
+			"order_no": "10",
+			"lat": "1.348293",
+			"lon": "103.837692",
+			"distance": "1.201 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Lornie Road becomes Upper Thomson Road."
+		}, {
+			"id": "54",
+			"vc_id": "14",
+			"order_no": "11",
+			"lat": "1.361568",
+			"lon": "103.828178",
+			"distance": "0.494 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Island Club Road."
+		}, {
+			"id": "55",
+			"vc_id": "14",
+			"order_no": "12",
+			"lat": "1.360967",
+			"lon": "103.821236",
+			"distance": "0.317 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left to stay on Island Club Road."
+		}, {
+			"id": "56",
+			"vc_id": "14",
+			"order_no": "13",
+			"lat": "1.357148",
+			"lon": "103.81884",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "MACRITCHIE NATURE TRAIL."
+		}]
+	}, {
+		"id": "15",
+		"name": "Henderson Wave",
+		"description": "At 36 metres above ground, the Henderson Waves bridge is the highest pedestrian bridge in Singapore. Unveiled in 2008, its fantastical shape has lent an unexpected jolt of design savvy to the lush green belt in the south of Singapore.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.276",
+		"lon": "103.8154",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/westcoast2.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "15",
+		"directions": [{
+			"id": "32",
+			"vc_id": "15",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "33",
+			"vc_id": "15",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.198 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Merchant Road."
+		}, {
+			"id": "34",
+			"vc_id": "15",
+			"order_no": "2",
+			"lat": "1.287825",
+			"lon": "103.845268",
+			"distance": "0.281 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto ramp."
+		}, {
+			"id": "35",
+			"vc_id": "15",
+			"order_no": "3",
+			"lat": "1.289122",
+			"lon": "103.842056",
+			"distance": "0.99 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_merge_right_sm.gif",
+			"narrative": "Merge onto CTE."
+		}, {
+			"id": "36",
+			"vc_id": "15",
+			"order_no": "4",
+			"lat": "1.280817",
+			"lon": "103.830826",
+			"distance": "0.125 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_gr_exitleft_sm.gif",
+			"narrative": "Take EXIT 1A."
+		}, {
+			"id": "37",
+			"vc_id": "15",
+			"order_no": "5",
+			"lat": "1.279462",
+			"lon": "103.829636",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_fork_right2_sm.gif",
+			"narrative": "Keep right at the fork in the ramp."
+		}, {
+			"id": "38",
+			"vc_id": "15",
+			"order_no": "6",
+			"lat": "1.278969",
+			"lon": "103.829018",
+			"distance": "0.678 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Jalan Bukit Merah."
+		}, {
+			"id": "39",
+			"vc_id": "15",
+			"order_no": "7",
+			"lat": "1.283284",
+			"lon": "103.820244",
+			"distance": "0.678 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Henderson Road."
+		}, {
+			"id": "40",
+			"vc_id": "15",
+			"order_no": "8",
+			"lat": "1.275116",
+			"lon": "103.814941",
+			"distance": "0.021 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto Telok Blangah Heights."
+		}, {
+			"id": "41",
+			"vc_id": "15",
+			"order_no": "9",
+			"lat": "1.275098",
+			"lon": "103.814651",
+			"distance": "0.081 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Henderson Road."
+		}, {
+			"id": "42",
+			"vc_id": "15",
+			"order_no": "10",
+			"lat": "1.276062",
+			"lon": "103.815308",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "HENDERSON ROAD."
+		}]
+	}, {
+		"id": "16",
+		"name": "Chinese Garden",
+		"description": "Designed by Taiwanese architect Prof. Yuen-chen Yu and built in 1975, the space is modelled after the northern Chinese imperial style of architecture and landscaping, particularly during the Sung dynasty period. The 'Bai Hong Qiao' bridge, for instance, follows the style of the 17-Arch Bridge at the Summer Palace in Beijing. Other highlights include a Bonsai Garden, which houses a collection of over a hundred beautifully-manicured bonsais imported from Malaysia, China, Taiwan, Japan, Philippines, Indonesia, and Thailand.",
+		"address": "",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.3424",
+		"lon": "103.7326",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/westcoast3.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "16",
+		"directions": [{
+			"id": "22",
+			"vc_id": "16",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.054 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "23",
+			"vc_id": "16",
+			"order_no": "1",
+			"lat": "1.286428",
+			"lon": "103.847763",
+			"distance": "0.198 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Merchant Road."
+		}, {
+			"id": "24",
+			"vc_id": "16",
+			"order_no": "2",
+			"lat": "1.287825",
+			"lon": "103.845268",
+			"distance": "0.281 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto ramp."
+		}, {
+			"id": "25",
+			"vc_id": "16",
+			"order_no": "3",
+			"lat": "1.289122",
+			"lon": "103.842056",
+			"distance": "1.55 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_merge_right_sm.gif",
+			"narrative": "Merge onto CTE."
+		}, {
+			"id": "26",
+			"vc_id": "16",
+			"order_no": "4",
+			"lat": "1.278195",
+			"lon": "103.824356",
+			"distance": "6.155 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "CTE becomes AYE\/Ayer Rajah Expressway."
+		}, {
+			"id": "27",
+			"vc_id": "16",
+			"order_no": "5",
+			"lat": "1.322272",
+			"lon": "103.750328",
+			"distance": "0.186 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_gr_exitleft_sm.gif",
+			"narrative": "Take EXIT 13."
+		}, {
+			"id": "28",
+			"vc_id": "16",
+			"order_no": "6",
+			"lat": "1.322683",
+			"lon": "103.747665",
+			"distance": "0.141 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_fork_right2_sm.gif",
+			"narrative": "Keep right at the fork in the ramp."
+		}, {
+			"id": "29",
+			"vc_id": "16",
+			"order_no": "7",
+			"lat": "1.32282",
+			"lon": "103.745636",
+			"distance": "1.582 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_right_sm.gif",
+			"narrative": "Turn right onto Jurong Town Hall Road."
+		}, {
+			"id": "30",
+			"vc_id": "16",
+			"order_no": "8",
+			"lat": "1.340494",
+			"lon": "103.734421",
+			"distance": "0.208 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Boon Lay Way."
+		}, {
+			"id": "31",
+			"vc_id": "16",
+			"order_no": "9",
+			"lat": "1.342569",
+			"lon": "103.732719",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "CHINESE GARDEN."
+		}]
+	}, {
+		"id": "17",
+		"name": "Garden's by the Bay",
+		"description": "<p>Gardens by the Bay is a nature park spanning 101 hectares of reclaimed land in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden. The largest of the gardens is Bay South Garden at 54 hectares.<br><\/p>",
+		"address": "<p>18 Marina Gardens Dr, Singapore 018953<br><\/p>",
+		"contactNo": "+65 6420 6848",
+		"rating": "4.7",
+		"lat": "1.28160",
+		"lon": "103.86360",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/gardens-by-the-bay-singapore.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "0",
+		"directions": [{
+			"id": "3",
+			"vc_id": "17",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.133 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "4",
+			"vc_id": "17",
+			"order_no": "1",
+			"lat": "1.28545",
+			"lon": "103.847168",
+			"distance": "0.094 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Pickering Street."
+		}, {
+			"id": "5",
+			"vc_id": "17",
+			"order_no": "2",
+			"lat": "1.28478",
+			"lon": "103.848358",
+			"distance": "0.209 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Pickering Street becomes Church Street."
+		}, {
+			"id": "6",
+			"vc_id": "17",
+			"order_no": "3",
+			"lat": "1.282648",
+			"lon": "103.85041",
+			"distance": "0.056 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Cecil Street."
+		}, {
+			"id": "7",
+			"vc_id": "17",
+			"order_no": "4",
+			"lat": "1.282615",
+			"lon": "103.851219",
+			"distance": "0.06 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_slight_right_sm.gif",
+			"narrative": "Turn slight right onto Finlayson Green."
+		}, {
+			"id": "8",
+			"vc_id": "17",
+			"order_no": "5",
+			"lat": "1.282194",
+			"lon": "103.851974",
+			"distance": "0.819 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_straight_sm.gif",
+			"narrative": "Finlayson Green becomes Marina Boulevard."
+		}, {
+			"id": "9",
+			"vc_id": "17",
+			"order_no": "6",
+			"lat": "1.275835",
+			"lon": "103.861954",
+			"distance": "0.295 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left onto Marina Gardens Drive."
+		}, {
+			"id": "10",
+			"vc_id": "17",
+			"order_no": "7",
+			"lat": "1.279411",
+			"lon": "103.864281",
+			"distance": "0.09 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/rs_left_sm.gif",
+			"narrative": "Turn left."
+		}, {
+			"id": "11",
+			"vc_id": "17",
+			"order_no": "8",
+			"lat": "1.280227",
+			"lon": "103.864082",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "OCBC SKYWAY."
+		}]
+	}, {
+		"id": "18",
+		"name": "China Town",
+		"description": "<p>Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars. Cultural institutions here include the 1827 Sri Mariamman Temple and the ornate Buddha Tooth Relic Temple and Museum.<br><\/p>",
+		"address": "<p>China Town, SG<\/p>",
+		"contactNo": "",
+		"rating": "",
+		"lat": "1.2815",
+		"lon": "103.8448",
+		"img_uri": "http:\/\/192.168.1.15\/newmeshtv3\/media\/virtual_concierge\/chinatown-food-street-singapore.jpg",
+		"category_id": "1",
+		"qr_img": "",
+		"map_img": "",
+		"order_no": "0",
+		"directions": [{
+			"id": "208",
+			"vc_id": "18",
+			"order_no": "0",
+			"lat": "1.287113",
+			"lon": "103.848137",
+			"distance": "0.452 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-start_sm.gif",
+			"narrative": "Start out going southwest on South Bridge Road toward North Canal Road."
+		}, {
+			"id": "209",
+			"vc_id": "18",
+			"order_no": "1",
+			"lat": "1.281493",
+			"lon": "103.844818",
+			"distance": "0 (mile)",
+			"icon_uri": "media\/virtual_concierge\/directions\/icon-dirs-end_sm.gif",
+			"narrative": "280 SOUTH BRIDGE ROAD."
+		}]
+	}],
+	"room": 0
+}

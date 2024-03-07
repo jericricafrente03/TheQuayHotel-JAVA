@@ -1,0 +1,37 @@
+{
+	"action":"UPDATE",
+	"class":"tv_category",
+	"room":0,
+	"date":"09 13 2016 20:32:53",
+	"data":
+	[
+		 {
+		    "category_description" : "All Channels",
+            "category_name" : "All Channels",
+            "id" : "0"
+          },
+
+		 {
+		    "category_description" : "General Entertainment",
+            "category_name" : "Entertainment",
+            "id" : "1"
+          },
+          { "category_description" : "Educational",
+            "category_name" : "Educational",
+            "id" : "2"
+          },
+ 		{ "category_description" : "News",
+            "category_name" : "News",
+            "id" : "3"
+          },
+          { "category_description" : "Kids",
+            "category_name" : "Kids",
+            "id" : "4"
+          },
+          { "category_description" : "Sports",
+            "category_name" : "Sports",
+            "id" : "5"
+          }
+
+	]
+}

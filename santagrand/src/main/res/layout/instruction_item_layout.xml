@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="20dp">
+    <LinearLayout
+        android:id="@+id/ll_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:weightSum="100"
+        android:orientation="horizontal">
+        <TextView
+            android:visibility="gone"
+            android:layout_marginLeft="60dp"
+            android:id="@+id/tv_label"
+            android:layout_width="0dp"
+            android:layout_weight="100"
+            android:layout_height="match_parent"
+            android:text="Requirement"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/ll_requirement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:weightSum="100"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/tv_req_bul"
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:textStyle="bold"
+
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:textSize="16sp"
+            android:text="•"/>
+        <TextView
+            android:id="@+id/tv_req_text"
+            android:layout_width="0dp"
+            android:layout_weight="80"
+            android:textSize="16sp"
+            android:layout_height="match_parent"
+            android:text="Requirement"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_instruction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:weightSum="100"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/tv_ins_no"
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:textStyle="bold"
+
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:textSize="16sp"
+            android:text="1."/>
+        <TextView
+            android:id="@+id/tv_ins_text"
+            android:layout_width="0dp"
+            android:layout_weight="80"
+            android:textSize="16sp"
+
+            android:layout_height="match_parent"
+            android:text="Requirement"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/ll_note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:weightSum="100"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/tv_note_text"
+            android:layout_width="0dp"
+            android:layout_weight="90"
+            android:textSize="16sp"
+            android:layout_height="match_parent"
+            android:text="Note"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/ll_app_list"
+        android:layout_width="0dp"
+        android:layout_weight="80"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal|top"/>
+
+
+    <com.ph.bittelasia.meshtv.tv.mtvlib.Core.View.CustomView.MeshTVCustomList.MeshTVCustomListView
+        android:id="@+id/clv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="80"
+        android:gravity="center_horizontal|top"
+        app:item_layout="@layout/sg_app"
+        app:item_layout_pressed="@layout/sg_app"
+        app:item_layout_selected="@layout/sg_app_selected"
+        app:maxViewed="7"
+        app:target="0"
+        app:type="continuous" />
+
+
+</LinearLayout>

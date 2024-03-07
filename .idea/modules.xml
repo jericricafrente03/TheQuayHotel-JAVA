@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheQuayHotel-JAVA.iml" filepath="$PROJECT_DIR$/.idea/modules/TheQuayHotel-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/load_package-1.0-112-debug/TheQuayHotel-JAVA.load_package-1.0-112-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/load_package-1.0-112-debug/TheQuayHotel-JAVA.load_package-1.0-112-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv-library-4.019-debug/TheQuayHotel-JAVA.mtv-library-4.019-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv-library-4.019-debug/TheQuayHotel-JAVA.mtv-library-4.019-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv-system-interface-1.01-debug/TheQuayHotel-JAVA.mtv-system-interface-1.01-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv-system-interface-1.01-debug/TheQuayHotel-JAVA.mtv-system-interface-1.01-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv_maintenance-1.0.1-debug/TheQuayHotel-JAVA.mtv_maintenance-1.0.1-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv_maintenance-1.0.1-debug/TheQuayHotel-JAVA.mtv_maintenance-1.0.1-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtv_packagemanager_interface-1.01-debug/TheQuayHotel-JAVA.mtv_packagemanager_interface-1.01-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/mtv_packagemanager_interface-1.01-debug/TheQuayHotel-JAVA.mtv_packagemanager_interface-1.01-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/santagrand/TheQuayHotel-JAVA.santagrand.iml" filepath="$PROJECT_DIR$/.idea/modules/santagrand/TheQuayHotel-JAVA.santagrand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vlc-player-1.087-debug/TheQuayHotel-JAVA.vlc-player-1.087-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/vlc-player-1.087-debug/TheQuayHotel-JAVA.vlc-player-1.087-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp_lib-1.126-debug/TheQuayHotel-JAVA.xmpp_lib-1.126-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp_lib-1.126-debug/TheQuayHotel-JAVA.xmpp_lib-1.126-debug.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="30"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:id="@+id/sv_description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:textSize="20sp"
+                    android:textColor="@color/SG_Gray"
+                    android:textStyle="bold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"/>
+                <TextView
+                    android:textColor="@color/SG_Gray"
+                    android:id="@+id/tv_desc"
+                    android:textSize="16sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:background="#000000"
+        android:paddingTop="4dp"
+        android:paddingLeft="4dp"
+        android:paddingBottom="4dp"
+        android:layout_width="0dp"
+        android:layout_weight="70"
+        android:layout_height="match_parent"
+        android:paddingRight="12dp">
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_marginLeft="4dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/arrow_left"/>
+        <ImageView
+            android:layout_marginRight="4dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/arrow_right"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/load_package-1.0-112-debug" />
+            <option value="$PROJECT_DIR$/mtv-library-4.019-debug" />
+            <option value="$PROJECT_DIR$/mtv-system-interface-1.01-debug" />
+            <option value="$PROJECT_DIR$/mtv_maintenance-1.0.1-debug" />
+            <option value="$PROJECT_DIR$/mtv_packagemanager_interface-1.01-debug" />
+            <option value="$PROJECT_DIR$/santagrand" />
+            <option value="$PROJECT_DIR$/vlc-player-1.087-debug" />
+            <option value="$PROJECT_DIR$/xmpp_lib-1.126-debug" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

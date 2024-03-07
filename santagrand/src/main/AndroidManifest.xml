@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.ph.bittelasia.meshtv.tv.santagrand"
+    tools:ignore="GoogleAppIndexingWarning">
+
+    <uses-sdk tools:overrideLibrary="com.ph.bittelasia.meshtv.tv.meshxmpplibrary,com.ph.bittelasia.meshtv.tv.mtvlib"/>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.SET_TIME"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <application
+        android:name=".Room.View.App.TheQuay"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:allowBackup="true"
+        android:icon="@drawable/thequay"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:name,android:hardwareAccelerated,android:icon,android:theme"
+        tools:ignore="AllowBackup">
+
+        <activity
+            android:name=".Launcher.View.Activity.TheQuayHotelLauncher"
+            android:screenOrientation="landscape"
+            tools:ignore="InnerclassSeparator">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".Netflix.View.Activity.TheQuayNetflix"
+            android:screenOrientation="landscape"
+            android:hardwareAccelerated="false"
+            tools:ignore="InnerclassSeparator" />
+
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".Airmedia.View.Activity.TheQuayAirMedia">
+        </activity>
+        
+            <activity
+            android:name=".Explore.View.Activity.TheQuayExplore">
+
+        </activity>
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".Info.View.Activity.TheQuayInfo">
+
+        </activity>
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".Message.View.Activity.TheQuayMessage">
+        </activity>
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".TV.View.Activity.TheQuayTV"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+            android:theme="@style/PlayerTheme"/>
+
+        <activity
+            android:screenOrientation="landscape"
+            android:name=".Weather.View.Activity.TheQuayWeather">
+        </activity>
+
+        <activity android:name=".TV.View.Activity.TheQuayPlayerActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode"
+            android:exported="true"
+            android:finishOnTaskLaunch="true"
+            android:launchMode="singleTask" />
+
+        <activity android:name=".TV.View.Activity.SantagrandPlayerActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode"
+            android:exported="true"
+            android:finishOnTaskLaunch="true"
+            android:launchMode="singleTask" />
+
+        <service android:name=".DateChangerService"
+            tools:ignore="InnerclassSeparator,Instantiatable"/>
+        <service android:name=".Core.Control.ConnectionService"
+            tools:ignore="InnerclassSeparator"/>
+        <service android:name=".Core.Control.ReportAnalyticsService"
+            tools:ignore="InnerclassSeparator"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,70 @@
+{
+	"action": "UPDATE",
+	"class": "facility",
+	"date": "08 09 2016 11:25:46",
+	"room": "0",
+	"data": [{
+			"category_id": "1",
+			"enabled": "1",
+			"id": "1",
+			"img_uri": "hi_introduction",
+			"item_description": "After 20 years of creating quality living and redefining the Makati skyline, Rockwell makes its foray into Makati accommodations and leisure options, all while keeping its signature brand of exclusivity and luxury for its patrons. Renowned for its attention to detail, Rockwell takes pride in providing foresight for the little things against the backdrop of outstanding, yet sincere hotel service.<br>Aruga by Rockwell has 114 remarkable apartments fully furnished in the Asian Contemporary style, infused with the Rockwell signature of sophisticated interior design and quality finishes.<br>These apartments are crafted to suit the needs of every kind of traveler, with units ranging from studios to one- and two bedroom Makati accommodations that can fit the lifestyle of the jet-setting individual or the touring family.",
+			"item_name": "Indoor Pool",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "2",
+			"enabled": "1",
+			"id": "2",
+			"img_uri": "hi_junior_suite",
+			"item_description": "Our one bedroom suite is ideal for travelling individuals, companions, or couples. Guests may enjoy the apartment's separate spaces for its dining, living area, and kitchen while also having the comfort and privacy of their bedrooms.<br>Size:<br>65 - 66 sq. m. or 695 - 710 sq. ft.<br><br>Room Features and Services:<br>Dining area<br>Living room<br>Fully equipped kitchen<br>Private bathroom<br>Balcony (on some rooms)<br>High definition TV<br>Washer and dryer<br>Iron and ironing board<br>Safety deposit box<br>Electronic key card access<br>220 volts electricity output<br>Daily housekeeping services<br>24-hour front desk services",
+			"item_name": "Gym",
+			"unit_price": "100"
+		},
+		{
+			"category_id": "3",
+			"enabled": "1",
+			"id": "3",
+			"img_uri": "hi_double_kinginamo",
+			"item_description": "Our spacious two bedroom suite is designed for individuals or travelling families, whether for business or leisure. Guests may enjoy the apartment's bigger kitchen space together with its own maid's or utility room.<br><br>Size:<br>106 - 107 sq. m. or 1141 - 1152 sq. ft.<br><br>Room Features and Services:<br>Dining area<br>Living room<br>Fully equipped kitchen<br>(3) Private bathroom<br>Utility room<br>Balcony<br>High definition TV<br>Washer and dryer<br>Iron and ironing board<br>Safety deposit box<br>Electronic key card access<br>220 volts electricity output<br>Daily housekeeping services<br>24-hour front desk services",
+			"item_name": "Free Valet Parking",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "4",
+			"enabled": "1",
+			"id": "4",
+			"img_uri": "hi_gym",
+			"item_description": "Our serviced apartments in Makati, Aruga by Rockwell, has a gym with the latest exercise equipment. Guests who use this facility may opt to have a personal trainer or work out alone. At Aruga's serviced apartment in Makati, travelers can continue their exercise routine even while they are away from home.",
+			"item_name": "Function Room",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "5",
+			"enabled": "1",
+			"id": "5",
+			"img_uri": "hair_dresser.jpg",
+			"item_description": "Hair dresser services",
+			"item_name": "Hair dresser services",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "6",
+			"enabled": "1",
+			"id": "6",
+			"img_uri": "hi_pool",
+			"item_description": "There is an outdoor swimming pool as well as a kiddie pool for both you and your child to enjoy.",
+			"item_name": "Private & semi-private cruises and excursions",
+			"unit_price": "0"
+		},
+		{
+			"category_id": "7",
+			"enabled": "1",
+			"id": "7",
+			"img_uri": "hi_meetings",
+			"item_description": "Be it a large gathering at Aruga, a business conference, or an intimate lunch or dinner, we have a private function room that cater to every need.",
+			"item_name": "Casino",
+			"unit_price": "0"
+		}
+	]
+}

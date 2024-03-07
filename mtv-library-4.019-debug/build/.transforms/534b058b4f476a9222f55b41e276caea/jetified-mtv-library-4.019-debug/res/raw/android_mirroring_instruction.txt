@@ -1,0 +1,17 @@
+{
+	"type":"android_mirroring",
+	"requirements":
+	[
+		{"no":"1","text":"Android 5.0 and above"}
+	],
+	"instructions":
+	[
+		{"no":"1","text":"Press the RED Button on the remote to launch."},
+		{"no":"2","text":"Tap on the App's icon on your phone home screen."},
+		{"no":"3","text":"From the application list on your device, tap on Settings."},
+		{"no":"4","text":"In Settings, under Connect and Share, tap on Screen Mirroring."},
+		{"no":"5","text":"On the Screen Mirroring page, tap on the switch button to enable feature.<br>The switch will turn green to indicate it is on, and your phone will search for available devices (TV) within range."},
+		{"no":"6","text":"The available TV will now be displayed. Tap on the devices name to connect to it."},
+		{"no":"7","text":"Your phones screen will now be displayed on your TV."}],
+	"notes":[]
+}

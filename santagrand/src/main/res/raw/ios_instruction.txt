@@ -1,0 +1,30 @@
+{
+	"notes": [{
+		"text": "If you did not see the AirPlay button in the Control Center, try Mirroring Assist from the App Store and follow the step-by-step instructions within the app to connect.",
+		"no": "1"
+	}],
+	"instructions": [{
+		"text": "Connect your mobile to the Wireless access point designated for your room (i.e. Rm 1.01).",
+		"no": "1"
+	}, {
+		"text": "Select the picture, music or video you want to share.",
+		"no": "2"
+	}, {
+		"text": "On your iOS device, finger swipe from bottom up to reveal Control Center.",
+		"no": "3"
+	}, {
+		"text": "Tap on AirPlay for streaming.",
+		"no": "4"
+	}, {
+		"text": "Find the streaming device which designated for your room (i.e. Rm 1.01).",
+		"no": "5"
+	}, {
+		"text": "If you want to AirPlay mirroring, on the Control Center swipe right the AirPlay mirroring.",
+		"no": "6"
+	}],
+	"type": "ios",
+	"requirements": [{
+		"text": "iOS 4.1 or higher",
+		"no": "1"
+	}]
+}

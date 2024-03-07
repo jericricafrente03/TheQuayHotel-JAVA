@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('load_package-1.0-112-debug.aar'))

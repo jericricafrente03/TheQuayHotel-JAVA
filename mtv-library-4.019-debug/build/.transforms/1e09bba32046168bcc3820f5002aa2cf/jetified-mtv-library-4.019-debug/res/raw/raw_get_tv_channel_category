@@ -1,0 +1,13 @@
+{
+	"action": "UPDATE",
+	"class": "get_tv_channel_category",
+	"data":
+	[
+	    {
+		    "id": "1",
+		    "category_name": "All Channels",
+		    "order_no": "1"
+	    }
+	],
+	"room": 0
+}

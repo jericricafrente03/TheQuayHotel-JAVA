@@ -1,0 +1,168 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_tv_channel",
+	"data":
+	[
+	    {
+			"id": "1",
+			"channel_title": "CNN International HD",
+			"channel_description": "World News",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.15:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_cnninternationalhd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "2",
+			"channel_title": "Channel News Asia HD",
+			"channel_description": "Asian News",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.7:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_newsasiahd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "3",
+			"channel_title": "National Geographic Channel HD",
+			"channel_description": "Documentary",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.13:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_natgeohd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "4",
+			"channel_title": "Discovery Channel HD",
+			"channel_description": "Documentary",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.14:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_discoverychannelhd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "5",
+			"channel_title": "Fox Sport HD",
+			"channel_description": "Sport News",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.17:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_fox.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "6",
+			"channel_title": "Mio Sports",
+			"channel_description": "Sport Events",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.16:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_mio.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "7",
+			"channel_title": "Fox Movies Premium HD",
+			"channel_description": "Blockbuster Movies",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.9:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_foxmovieshd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "8",
+			"channel_title": "NHK",
+			"channel_description": "NHK",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.10:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_nhk.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "9",
+			"channel_title": "Star World HD",
+			"channel_description": "Asia's Lifestyle",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.8:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_starworldhd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "10",
+			"channel_title": "CTI Asia HD",
+			"channel_description": "Chinese Entertainment",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.11:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_ctiasia.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "11",
+			"channel_title": "Channel 5",
+			"channel_description": "Local English Drama\/Variety",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.1:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_channel5hd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "12",
+			"channel_title": "Channel 8",
+			"channel_description": "Local Chinese Drama\/Variety",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.2:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_channel8hd.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "13",
+			"channel_title": "tvN",
+			"channel_description": "tvN",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.3:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_tvn.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "14",
+			"channel_title": "Travel Channel",
+			"channel_description": "Travel Channel",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.6:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_travel.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "15",
+			"channel_title": "Cartoon Network",
+			"channel_description": "Cartoon Network",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.4:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_cartoon_network.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		},
+		{
+			"id": "16",
+			"channel_title": "Warner TV",
+			"channel_description": "Warner TV",
+			"channel_category_id": "1",
+			"channel_uri": "udp:\/\/@238.0.0.5:6010",
+			"channel_image": "http:\/\/192.168.1.15\/newmeshtv3\/media\/tv\/ch_warner.jpg",
+			"channel_programs": "",
+			"enabled": "1"
+		}
+	],
+	"room": 0
+}

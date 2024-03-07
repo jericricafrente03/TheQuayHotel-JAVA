@@ -1,0 +1,11 @@
+include ':vlc-player-1.087-debug'
+include ':mtv-system-interface-1.01-debug'
+include ':mtv-library-4.019-debug'
+include ':mtv_packagemanager_interface-1.01-debug'
+include ':xmpp_lib-1.126-debug'
+include ':load_package-1.0-112-debug'
+include ':mtv_maintenance-1.0.1-debug'
+include ':santagrand'
+
+
+

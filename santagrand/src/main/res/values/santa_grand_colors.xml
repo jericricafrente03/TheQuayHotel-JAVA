@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="SG2_Gold">#b4975a</color>
+    <color name="SG2_Gray">#414042</color>
+    <color name="SG2_List_Selector">#F9F2D9</color>
+    <color name="SG2_GREEN">#009444</color>
+    <color name="SG2_YELLOW">#FFBC00</color>
+    <color name="SG2_Text_selected">#000000</color>
+    <color name="SG2_Text_notselected">#ffffff</color>
+    <color name="SG2_White">#ffffff</color>
+    <color name="SG_Gold">#b4975a</color>
+    <color name="SG_Gray">#414042</color>
+    <color name="SG_List_Selector">#F9F2D9</color>
+    <color name="SG_GREEN">#009444</color>
+    <color name="SG_BLUE">#2088c9</color>
+    <color name="SG_YELLOW">#FFBC00</color>
+    <color name="SG_Text_selected">#000000</color>
+    <color name="SG_Text_notselected">#ffffff</color>
+    <color name="SG_BYellow">#f9dd2e</color>
+    <color name="SG_BORDER">#525047</color>
+    <color name="SG_BOX">#80ffffff</color>
+    <color name="SG_SIDES">#BEA469</color>
+
+</resources>

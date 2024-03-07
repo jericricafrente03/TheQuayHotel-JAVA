@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gold">#C7A560</color>
+    <color name="gold96">#976B08</color>
+    <color name="gold903">#48B48903</color>
+    <color name="transparent">#00000000</color>
+    <color name="dirtyBrown">#529D8C85</color>
+    <color name="carlson_blue">#0b1a2b</color>
+</resources>

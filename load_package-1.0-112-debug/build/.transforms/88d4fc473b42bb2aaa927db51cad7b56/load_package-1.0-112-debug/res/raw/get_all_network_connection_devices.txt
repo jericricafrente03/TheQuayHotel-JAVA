@@ -1,0 +1,22 @@
+[{
+	"network_device_id": 1,
+	"connect_to": "VLAN 1",
+	"bssid": "",
+	"capability": "",
+	"ssid": "",
+	"password": ""
+}, {
+	"network_device_id": 2,
+	"connect_to": "VLAN 2",
+	"bssid": "",
+	"capability": "",
+	"ssid": "BittelUAP",
+	"password": "bumblebee8888"
+}, {
+	"network_device_id": 3,
+	"connect_to": "VLAN 3",
+	"bssid": "",
+	"capability": "",
+	"ssid": "",
+	"password": ""
+}]

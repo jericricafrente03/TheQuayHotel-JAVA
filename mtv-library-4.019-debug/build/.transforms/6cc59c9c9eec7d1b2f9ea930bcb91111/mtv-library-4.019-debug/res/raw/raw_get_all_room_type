@@ -1,0 +1,223 @@
+{
+	"action": "UPDATE",
+	"class": "get_all_room_type",
+	"data": [{
+		"id": "1",
+		"name": "Standard Room",
+		"description": "<ul>\n<li>1 x Single Bed<\/li>\n<li>11 m<span class=\"rendered_qtext\"><strong>&sup2;<\/strong><\/span><\/li>\n<li><span class=\"rendered_qtext\">Non-Smoking Room<br \/><\/span><\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board (*available upon request)<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable telivision<\/li>\n<\/ul>",
+		"category_id": "1",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_standard1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_standard2.jpg"
+		}]
+	}, {
+		"id": "2",
+		"name": "Superior Room",
+		"description": "<ul>\n<li>2 x Single Bed (Twin) OR 1 x Queen Bed (Double)<\/li>\n<li>13m<span class=\"rendered_qtext\"><strong>&sup2;<\/strong><\/span><\/li>\n<li><span class=\"rendered_qtext\">Non-Smoking Room<br \/><\/span><\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board (*available upon reques)<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable telivision<\/li>\n<\/ul>",
+		"category_id": "1",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_sr_no_window1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_sr_no_window2.jpg"
+		}]
+	}, {
+		"id": "3",
+		"name": "Superior Room",
+		"description": "<ul> <li>2 x Single Bed (Twin) OR 1 x Queen Bed (Double)<\/li> <li>13m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board (*available upon request)<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "1",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_superior11.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_superior3.jpg"
+		}]
+	}, {
+		"id": "4",
+		"name": "Deluxe Room",
+		"description": "<ul> <li>2 x Super Single Bed (Twin) OR 1 x King Bed (Double)<\/li> <li>15m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board (*available upon request)<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "1",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_deluxe1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_deluxe2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_deluxe3.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_deluxe4.jpg"
+		}]
+	}, {
+		"id": "5",
+		"name": "Family Room",
+		"description": "<ul> <li>1 x Super Single Bed &amp; 1 x King Bed<\/li> <li>25m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board (*available upon request)<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "1",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_family1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_family2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_bugis_family3.jpg"
+		}]
+	}, {
+		"id": "6",
+		"name": "Superior Room",
+		"description": "<ul> <li>2 x Single Bed (Twin) OR 1 x Queen Bed (Double)<\/li> <li>14m&sup2;<\/li> <li>Non-smoking room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "2",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_superior1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_superior2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_superior3.jpg"
+		}]
+	}, {
+		"id": "7",
+		"name": "Deluxe Room",
+		"description": "<ul> <li>2 x Super Single Bed (Twin) OR 1 x King Bed (Double)<\/li> <li>16m&sup2;<\/li> <li>Non-smoking room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "2",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_deluxe1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_deluxe2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_deluxe3.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_deluxe4.jpg"
+		}]
+	}, {
+		"id": "8",
+		"name": "Family Room",
+		"description": "<ul> <li>1 x Super Single Bed &amp; 1 x King Bed<\/li> <li>21m&sup2;<\/li> <li>Non-smoking room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "2",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_family1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_family2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_family3.jpg"
+		}]
+	}, {
+		"id": "9",
+		"name": "Executive Room",
+		"description": "<ul> <li>1 x Super Single Bed &amp; 1 x King Bed<\/li> <li>21m&sup2;<\/li> <li>Non-smoking room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "2",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_executive1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_executive2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_ec_executive3.jpg"
+		}]
+	}, {
+		"id": "10",
+		"name": "Standard Room",
+		"description": "<ul> <li>1 x Single Bed<\/li> <li>10m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board (*available upon request)<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "3",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_standard1.jpg"
+		}]
+	}, {
+		"id": "11",
+		"name": "Superior Room",
+		"description": "<ul> <li>2 x Single Bed (Twin)<\/li> <li>12m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul> <li>LCD TV<\/li> <li>Safe deposit box<\/li> <li>Mini fridge, kettle and hairdryer<\/li> <li>Iron and ironing board (*available upon request)<\/li> <li>Complimentary tea\/coffee\/mineral water<\/li> <li>Complimentary in-room internet access (Wi-Fi)<\/li> <li>Complimentary local call services<\/li> <li>Cable television<\/li> <\/ul>",
+		"category_id": "3",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_superior1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_superior2.jpg"
+		}]
+	}, {
+		"id": "12",
+		"name": "Deluxe Room",
+		"description": "<ul> <li>1 x Queen Bed<\/li> <li>15m&sup2;<\/li> <li>Non-Smoking Room<\/li> <\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board (*available upon request)<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable television<\/li>\n<\/ul>",
+		"category_id": "3",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe3.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe4.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe5.jpg"
+		}]
+	}, {
+		"id": "13",
+		"name": "Family Room",
+		"description": "<ul>\n<li>1 x Single Bed &amp; 1 x Queen Bed<\/li>\n<li>17m&sup2;<\/li>\n<li>Non-Smoking Room<\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board (*available upon request)<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable television<\/li>\n<\/ul>",
+		"category_id": "3",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_family1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_family2.jpg"
+		}]
+	}, {
+		"id": "14",
+		"name": "Superior Room",
+		"description": "<ul>\n<li>1 x Queen Bed (Double)<\/li>\n<li>12m&sup2;<\/li>\n<li>Non-Smoking Room<\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board available upon request<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable television<\/li>\n<\/ul>",
+		"category_id": "4",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe3.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe4.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_deluxe5.jpg"
+		}]
+	}, {
+		"id": "15",
+		"name": "Deluxe Room",
+		"description": "<ul>\n<li>2 x Single Bed (Twin) OR 1 x Queen Bed (Double)<\/li>\n<li>15m&sup2;<\/li>\n<li>Non-Smoking Room<\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board available upon request<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable television<\/li>\n<\/ul>",
+		"category_id": "4",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_family1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_li_family2.jpg"
+		}]
+	}, {
+		"id": "16",
+		"name": "Superior Room",
+		"description": "<ul>\n<li>1 x Queen Bed (Double)<\/li>\n<li>12m&sup2;<\/li>\n<li>Non-Smoking Room<\/li>\n<\/ul>",
+		"amenities": "<ul>\n<li>LCD TV<\/li>\n<li>Safe deposit box<\/li>\n<li>Mini fridge, kettle and hairdryer<\/li>\n<li>Iron and ironing board available upon request<\/li>\n<li>Complimentary tea\/coffee\/mineral water<\/li>\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\n<li>Complimentary local call services<\/li>\n<li>Cable television<\/li>\n<\/ul>",
+		"category_id": "4",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_superiornw1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_superiornw2.jpg"
+		}]
+	}, {
+		"id": "17",
+		"name": "Deluxe Room",
+		"description": "<ul>\r\n<li>2 x Single Bed (Twin) OR 1 x Queen Bed (Double)<\/li>\r\n<li>15m&sup2;<\/li>\r\n<li>Non-Smoking Room<\/li>\r\n<\/ul>",
+		"amenities": "<ul>\r\n<li>LCD TV<\/li>\r\n<li>Safe deposit box<\/li>\r\n<li>Mini fridge, kettle and hairdryer<\/li>\r\n<li>Iron and ironing board available upon request<\/li>\r\n<li>Complimentary tea\/coffee\/mineral water<\/li>\r\n<li>Complimentary in-room internet access (Wi-Fi)<\/li>\r\n<li>Complimentary local call services<\/li>\r\n<li>Cable television<\/li>\r\n<\/ul>",
+		"category_id": "4",
+		"images": [{
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_deluxe1.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_deluxe2.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_deluxe3.jpg"
+		}, {
+			"image_uri": "http:\/\/192.168.1.26\/newmeshtv3\/media\/room_types\/room_wc_deluxe4.jpg"
+		}]
+	}],
+	"room": 0
+}

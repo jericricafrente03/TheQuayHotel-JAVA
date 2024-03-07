@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/activity_main"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    <!--BackGround-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sg_bg_nobox"
+        android:id="@+id/iv_sgair"/>
+    <!--Main-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+        <!--Header    -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp">
+
+            <LinearLayout
+                android:visibility="gone"
+                android:orientation="horizontal"
+                android:id="@+id/ll_notification"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"/>
+
+            <LinearLayout
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/ll_notification"
+                android:id="@+id/ll_guest"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:id="@+id/ll_weather"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+        <TextView
+            android:layout_gravity="left"
+            android:textAlignment="gravity"
+            android:layout_marginTop="@dimen/title_top_margin"
+            android:layout_marginLeft="@dimen/title_margin"
+            android:layout_marginRight="@dimen/title_margin"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:gravity="center_vertical|left"
+            android:textColor="@color/SG2_White"
+            android:textSize="@dimen/font_xxxbig"
+            android:textStyle="bold"
+            android:text="@string/app_tv"
+            android:layout_marginBottom="6dp"/>
+        <!--Main-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="70"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="100">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:background="@color/SG_SIDES"
+                    android:orientation="vertical"
+                    android:layout_weight="10"/>
+            </LinearLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/ll_main"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="98"
+                android:background="@drawable/sg_mainbox"/>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:weightSum="100">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:background="@color/SG_SIDES"
+                    android:orientation="vertical"
+                    android:layout_weight="10"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tv_instruction"
+                android:textAlignment="center"
+                android:layout_marginLeft="@dimen/title_margin"
+                android:layout_marginRight="@dimen/title_margin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|left"
+                android:textColor="@color/SG2_Gray"
+                android:textSize="@dimen/font_xbig"
+                android:textStyle="bold"
+                android:text=""/>
+            <Button
+                android:visibility="gone"
+                android:focusableInTouchMode="false"
+                android:focusable="false"
+                android:id="@+id/bt_room"
+                android:text="@string/room_types"
+                android:textColor="@drawable/button_selector"
+                android:background="@drawable/santagrand_green_button"
+                android:layout_width="@dimen/btn_width"
+                android:textStyle="bold"
+                android:textSize="@dimen/font_xbig"
+                android:layout_height="@dimen/btn_height"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_badge"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

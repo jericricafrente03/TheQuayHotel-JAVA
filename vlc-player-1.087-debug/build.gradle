@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('vlc-player-1.087-debug.aar'))

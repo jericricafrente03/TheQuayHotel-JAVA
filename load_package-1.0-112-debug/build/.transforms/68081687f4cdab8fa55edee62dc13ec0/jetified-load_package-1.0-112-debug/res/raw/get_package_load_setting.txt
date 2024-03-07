@@ -1,0 +1,7 @@
+{
+          "network_type_id": 1,
+          "network_device_id": 2,
+          "gif_to_load_id": 4,
+          "no_internet_counter": 60,
+          "package_name":"com.netflix.mediaclient"
+}

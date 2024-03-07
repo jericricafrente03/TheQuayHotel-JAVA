@@ -1,0 +1,10 @@
+[
+    {
+		"network_type_id": 1,
+		"network_name": "WIFI"
+	},
+	{
+		"network_type_id": 2,
+		"network_name": "ethernet"
+	}
+]

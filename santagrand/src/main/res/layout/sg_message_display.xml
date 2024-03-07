@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <!--TOP-->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:weightSum="100"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="10"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_icon"
+                android:src="@drawable/msg_avatar"
+                android:layout_width="@dimen/message_icon"
+                android:layout_height="@dimen/message_icon"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="55"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|left">
+
+            <TextView
+                android:id="@+id/tv_sender"
+                android:textStyle="bold"
+                android:textSize="@dimen/font_xbig"
+                android:textColor="@color/SG_Gray"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="50"
+                tools:text="From: "/>
+            <TextView
+                android:id="@+id/tv_subject"
+                android:textStyle="bold"
+                android:textSize="@dimen/font_xbig"
+                android:textColor="@color/SG_Gray"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="50"
+                tools:text="Subject: "/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="35"
+            android:orientation="horizontal"
+            android:layout_height="match_parent"
+            android:gravity="bottom|right">
+
+            <TextView
+                android:gravity="bottom"
+                android:id="@+id/tv_date"
+                android:textColor="@color/SG_Gray"
+                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:textSize="@dimen/font_xbig"
+                tools:text="05-September-16"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <View
+        android:background="@color/SG_Gray"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_width"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="85">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:gravity="top|left"
+                android:id="@+id/tv_message"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/font_xxbig"
+                android:textColor="@color/SG_Gray"
+                android:padding="12dp"
+                tools:text="Hi"/>
+
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

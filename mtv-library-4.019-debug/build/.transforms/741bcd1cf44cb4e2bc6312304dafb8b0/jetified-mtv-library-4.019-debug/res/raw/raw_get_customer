@@ -1,0 +1,25 @@
+{
+	"action": "UPDATE",
+	"class": "get_customer",
+	"data":
+	{
+		"class_name": "Standard Room",
+		"room_number": "123",
+		"checkin": "2019-02-08 15:39:47",
+		"assign_id": "2",
+		"reserve_no": "111",
+		"id": "1",
+		"firstname": "Mars",
+		"lastname": "Araullo",
+		"birthdate": "2017-11-03",
+		"home_addr1": "Better Living",
+		"home_addr2": "PH",
+		"home_addr3": "Manila",
+		"home_addr4": "4029",
+		"mobile_no": "55555",
+		"landline_no": "9999",
+		"email": "mars.araullo@bittelasia.com",
+		"weather_id": "0"
+	},
+	"room": "123"
+}
